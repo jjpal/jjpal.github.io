@@ -2,7 +2,9 @@ title: Juanita # your name (or website title) here
 logo: "/images/datapresentation - mod.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Analyst <br><br>
-  📊 Data Analytics | 💻 Data Engineering | 📚 Cloud Learning | SQL | Python | Data Viz | Data Informed Dog Mom <br><br>
+  📊 Data Analytics | Data Engineering | Analytics Engineering <br><br>
+  💻 SQL | Python | Data Viz <br><br>
+  🐕 Data Informed Dog Mom <br><br>
   <!--a href="https://www.linkedin.com/in/___/">View My LinkedIn Profile</a!--> 
   
 theme: jekyll-theme-minimal
