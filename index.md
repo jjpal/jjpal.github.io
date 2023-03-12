@@ -22,7 +22,7 @@ How does class size affect college admission?
 What are the top math schools in the state? 
 
 ---
-#### [Internal Blog Post Project](/bank)
+#### [Banking Project](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 Data is the best
 
@@ -41,6 +41,11 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
+- [Project 6 Title](http://example.com/)
+- [Project 7 Title](http://example.com/)
+- [Project 8 Title](http://example.com/)
+- [Project 9 Title](http://example.com/)
+- [Project 10 Title](http://example.com/)
 
 ---
 
