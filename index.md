@@ -5,8 +5,8 @@
 ### Learn About My Projects
 
 ---
-#### iFoods Marketing Analysis Project](https://www.linkedin.com/pulse/ifoods-marketing-analysis-juanita-p/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/ifoods-marketing-analysis-juanita-p/)
+#### [iFoods Marketing Analysis Project](https://www.linkedin.com/pulse/ifoods-marketing-analysis-juanita-p/)
+[<img src="/images/iFoods Analytics.png?raw=true"/>](https://www.linkedin.com/pulse/ifoods-marketing-analysis-juanita-p/)
 My first write up for Avery Smith's Data Analytics Accelerator, the task was to analyze the iFoods food delivery service data. The main focuses were:
  Customers purchases (most spent, least spent, average, total) 
  Marketing campaigns (which was most popular)
