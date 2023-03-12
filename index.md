@@ -8,9 +8,9 @@
 #### [iFoods Marketing Analysis Project](https://www.linkedin.com/pulse/ifoods-marketing-analysis-juanita-p/)
 [<img src="/images/iFoods Analytics.png?raw=true"/>](https://www.linkedin.com/pulse/ifoods-marketing-analysis-juanita-p/)
 My first write up for Avery Smith's Data Analytics Accelerator, the task was to analyze the iFoods food delivery service data. The main focuses were:
- Customers purchases (most spent, least spent, average, total) 
- Marketing campaigns (which was most popular)
- Age demographics
+ Customers purchases (most spent, least spent, average, total), 
+ Marketing campaigns (which was most popular),
+ Age demographics,
  Numbers of new members signing up for the app
  
 ---
