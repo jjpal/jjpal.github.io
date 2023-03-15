@@ -1,8 +1,8 @@
-# Hi 👋 Welcome to My Portfolio
+# Welcome to My Portfolio
 
 ---
 
-### Learn About My Projects
+### Hi 👋 Learn About My Projects
 
 ---
 #### [iFoods Marketing Analysis Project](https://www.linkedin.com/pulse/ifoods-marketing-analysis-juanita-p/)
