@@ -51,7 +51,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ---
 ### [Tableau](https://public.tableau.com/app/profile/jj1485)
-[<img src="/images/tableau_icon.png?raw=true"/>]((https://public.tableau.com/app/profile/jj1485) |
+[<img src="/images/tableau_icon.png?raw=true"/>](https://public.tableau.com/app/profile/jj1485) |
 
 ???
 <h3 id="-tableau"><a href="https://public.tableau.com/app/profile/jj1485"><img src="images/tableau_icon.png?raw=true" /></a> <a href="https://public.tableau.com/app/profile/jj1485">Tableau</a></h3> |
