@@ -33,11 +33,11 @@ Data is the best
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
-### Category Name 2
+### All Data Projedts
 
 ---
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [iFoods Marketing Analysis Project](https://www.linkedin.com/pulse/ifoods-marketing-analysis-juanita-p/)
+- [Data for Ed Good - Massachusetts School Analysis](https://www.linkedin.com/pulse/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
@@ -47,9 +47,14 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 - [Project 9 Title](http://example.com/)
 - [Project 10 Title](http://example.com/)
 
----
 
-<h3 id="-tableau"><a href="https://public.tableau.com/app/profile/jj1485"><img src="images/tableau_icon.png?raw=true" /></a> <a href="https://public.tableau.com/app/profile/jj1485">Tableau</a></h3>
+
+---
+### [Tableau](https://public.tableau.com/app/profile/jj1485)
+[<img src="/images/tableau_icon.png?raw=true"/>]((https://public.tableau.com/app/profile/jj1485) |
+
+???
+<h3 id="-tableau"><a href="https://public.tableau.com/app/profile/jj1485"><img src="images/tableau_icon.png?raw=true" /></a> <a href="https://public.tableau.com/app/profile/jj1485">Tableau</a></h3> |
 
 ---
 
