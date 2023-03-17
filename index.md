@@ -14,7 +14,7 @@ My first write up for Avery Smith's Data Analytics Accelerator, the task was to 
  and Number of new members signing up for the app (high and low months).
  
 ---
-#### [Massachusetts School Analysis Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
+#### [Massachusetts School Analysis Project](https://www.linkedin.com/pulse/data-ed-good-massachusetts-school-analysis-juanita-p/)
 [<img src="images/Education Project M3.jpg?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
