@@ -33,12 +33,12 @@ Which was the most recent to pay? Who has the most loans?
 
 
 ---
-### All Data Projedts
+### All Data Projects
 
 ---
 - [iFoods Marketing Analysis Project](https://www.linkedin.com/pulse/ifoods-marketing-analysis-juanita-p/)
 - [Data for Ed Good - Massachusetts School Analysis Project](https://www.linkedin.com/pulse/data-ed-good-massachusetts-school-analysis-juanita-p/)
-- [Project 3 Title](http://example.com/)
+- [World Bank - SQL Financial Banking Project](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 - [Project 6 Title](http://example.com/)
