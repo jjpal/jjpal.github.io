@@ -22,9 +22,11 @@ How does class size affect college admission?
 What are the top math schools in the state? 
 
 ---
-#### [Banking Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Data is the best
+#### [World Bank - SQL Financial Project](/bank)
+<img src="images/SQL Banking Project(1).jpg?raw=true"/>
+For this case study, I was tasked to do some initial exploratory analysis with SQL as a financial analyst with the World Bank.
+A few questions with this analysis include: How many total transactions? How many total transactions per country? What is the max owed to the IDA? 
+Which was the most recent to pay? Who has the most loans?
 
 
 ---
