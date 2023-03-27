@@ -77,6 +77,7 @@ GROUP BY "country"
 LIMIT 20;
 ```
 output (display only top 5)
+
 | | country	     |  t_transactions |
 | ------------- |:-------------:| -----:|
 |1 | Afghanistan |	14708 |
@@ -99,6 +100,7 @@ FROM "IDA_Statement_Of_Credits_and_Grants__Historical_Data.csv"
 LIMIT 20;
 ```
 output
+
 | | region	      |  due |
 | ------------- |:-------------:| -----:|
 |01 | EUROPE AND CENTRAL ASIA      | $4,097,459.75 |
@@ -136,6 +138,7 @@ ORDER BY "Due to IDA" DESC
 LIMIT 5;
 ```
 output
+
 | borrower		                    |	country	| Due to IDA |
 | ------------- |:-------------:| -----:|
 | CONTROLLER OF AID ACCOUNTS & AUDIT |	India	 | $793,256,127.64  |
