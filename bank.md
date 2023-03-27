@@ -15,8 +15,8 @@ Which was the most recent to pay?
 
 
 ## **Key Insights**
-- The total transactions during this period was $1,140,120.00
-- The total transactions per country were (top 5 from 20  from output - not sorted)
+- Total transactions: $1,140,120.00
+- Total transactions per country (top 5):
 
 | | country	      |  t_transactions |
 | ------------- |:-------------:| -----:|
@@ -26,9 +26,9 @@ Which was the most recent to pay?
 |4 | Bolivia	        |  $17,802 |
 |5 | Afghanistan	    |  $14,708 |
 
-- The maximum owed to the IDA is $20,713,474,676,596.793
-- The borrower that has the most loans is Ministry of Eco, Planning and RegionDev
-- The most recent pay (date) was on 12/28/2022 for the period ending 12/31/2022
+- Max owed to IDA: $20,713,474,676,596.793
+- Borrower with most loans:  Ministry of Eco, Planning and RegionDev
+- Most recent pay date was on 12/28/2022 
 
 ### Setup
 
@@ -151,12 +151,13 @@ FROM "IDA_Statement_Of_Credits_and_Grants__Historical_Data.csv";
 ```
 <img src="images/max_owed_ida.png?raw=true"/>
 
-Looking into a bit more details how much is owed by country?
+Looking into a bit more details - how much is owed by country?
 ```sql
+SELECT country, MAX("Due to IDA") AS Max_Due
 FROM "IDA_Statement_Of_Credits_and_Grants__Historical_Data.csv"
 GROUP BY country
 ORDER BY Max_Due desc
-LIMIT 20;
+LIMIT 20
 ```
 
 | | country			| max_due |
@@ -165,42 +166,95 @@ LIMIT 20;
 |02 | Kenya			| $780,555,197.55 |
 |03 | Nigeria	  | $715,372,514.35 |
 |04 | Pakistan	|	$6,406,033,920.00 |
-Ethiopia
-621352567
-Ukraine
-586644394.79
-Bangladesh
-522165403.4
-Congo, Democratic Republic of
-502306751.05
-Uzbekistan
-500000000
-Myanmar
-423303090.8
-Vietnam
-418952018.23
-Cote d'Ivoire
-359029810
-Tanzania
-323606690.18
-Uganda
-316959213.49
-Ghana
-314142048
-Nepal
-296430855.21
-Senegal
-290323230
-Zambia
-275000000
-China
-260974560
-|20 | Mali | 231,138,250.00 |
+|05 | Ethiopia  | $621,352,567.00 |
+|06 | Ukraine   | $586,644,394.79 |
+|07 | Bangladesh| $522,165,403.40 |
+|08 |Congo, Democratic Republic of| $502,306,751.05 |
+|09 | Uzbekistan | $500,000,000.00 |
+|10 | Myanmar | $423,303,090.80 |
+|11 | Vietnam | $418,952,018.23 |
+|12 | Cote d'Ivoire | $359,029,810.00 |
+|13 | Tanzania | $323,606,690.18 |
+|14 | Uganda | $316,959,213.49 |
+|15 | Ghana | $314,142,048.00 |
+|16 | Nepal |$296,430,855.21 |
+|17 | Senegal | $290,323,230 |
+|18 | Zambia | $275,000,000.00 |
+|19 | China | $260,974,560.00 |
+|20 | Mali | $231,138,250.00 |
 
+
+What is the average service charge rate for a loan? 
+```sql
+SELECT AVG("Service Charge Rate") AS Avg_srv_charge
+FROM "IDA_Statement_Of_Credits_and_Grants__Historical_Data.csv"
+```
+<img src="images/avg_service_charge.png?raw=true"/>
+
+I got a quick ad-hoc request to check the service charges for Cote d'Ivoire that are greater than $1
+```sql
+SELECT *
+FROM "IDA_Statement_Of_Credits_and_Grants__Historical_Data.csv"
+WHERE country = 'Cote d''Ivoire' AND "Service Charge Rate" > 1
+ORDER BY "Service Charge Rate" DESC 
+LIMIT 20;
+```
+output
+<img src="images/service_charge_cotedivoire.png?raw=true"/>
+
+Now back to the list of questions.
+Who has the most loans? 
+To answer this question I had to play around with the columns a bit.
+So, to get the borrower who had the most loans, I wanted to narrow down borrowers who still owe money and had the most loans.
+
+```sql
+SELECT Borrower, country, "Project Name", 
+       COUNT("Due to IDA") AS count_ida, SUM("Due to IDA") AS ida_due, SUM("Repaid to IDA") AS ida_paid
+FROM "IDA_Statement_Of_Credits_and_Grants__Historical_Data.csv"
+GROUP BY Borrower, country, "Project Name"
+HAVING SUM("Due to IDA") > 0
+ORDER BY count_ida DESC, ida_due DESC
+LIMIT 20
+```
+output
+<img src="images/most_loans.png?raw=true"/>
+
+Next, the last question to be answered  - Which was the most recent to pay?
+For this question there are not too many details, so first I needed to review all the columns that are datetime data types. 
+<img src="images/datetime.png?raw=true"/>
+
+From the data dictionary the most likely datetime columns that need to be reviewed include:
+<img src="images/data_dictionary.png?raw=true"/>
+
+After several iterations of tweaking the query – the query and results are:
+```sql
+SELECT Borrower, country, "End of Period", "Last Disbursement Date"
+FROM "IDA_Statement_Of_Credits_and_Grants__Historical_Data.csv"
+WHERE "First Repayment Date" IS NOT null 
+     AND "Last Disbursement Date" IS NOT null
+GROUP BY 1, 2, 3, 4
+ORDER BY "End of Period" DESC, "Last Disbursement Date" DESC
+LIMIT 20
+```
+output
+<img src="images/most_recent_pay.png?raw=true"/>
 
 ## **Observations and Insights**
 
-This was not a kaggle dataset so it it required a bit of filtering to clean up some of the results for the more involved queries. As most real-world data the data continuously is being updated, so the details the analysis will change with later updated snapshots from the World Bank.
+This was not a kaggle dataset, it required a bit of filtering to clean up some of the results for the more involved queries. As most real-world data, the data continuously is being updated, so the details the analysis will change with later updated snapshots from the World Bank.
 
+- The total transactions during this period was $1,140,120.00
+- The total transactions per country were (top 5 from 20  from output - not sorted)
 
+| | country	      |  t_transactions |
+| ------------- |:-------------:| -----:|
+|1 | Bangladesh       | $42,026  |
+|2 | Burkina Faso     |  $22,080 |
+|3 | Benin		        |  $17,858 |
+|4 | Bolivia	        |  $17,802 |
+|5 | Afghanistan	    |  $14,708 |
+
+- The maximum owed to the IDA is $20,713,474,676,596.793
+- The borrower that has the most loans is Ministry of Eco, Planning and RegionDev
+- The most recent pay (date) was on 12/28/2022 for the period ending 12/31/2022
 
