@@ -30,6 +30,9 @@ Which was the most recent to pay? Who has the most loans?
 
 
 ---
+#### [SQL Healthcare Analysis](https://www.linkedin.com/pulse/ /)
+[<img src="images/SQL Healthcare Analytics Project.png?raw=true"/>](https://www.linkedin.com/pulse/ /)
+
 
 
 ---
@@ -39,7 +42,7 @@ Which was the most recent to pay? Who has the most loans?
 - [iFoods Marketing Analysis Project](https://www.linkedin.com/pulse/ifoods-marketing-analysis-juanita-p/)
 - [Data for Ed Good - Massachusetts School Analysis Project](https://www.linkedin.com/pulse/data-ed-good-massachusetts-school-analysis-juanita-p/)
 - [World Bank - SQL Financial Banking Project](/bank.md)
-- [Project 4 Title](http://example.com/)
+- [SQL Healthcare Analysis](http://example.com/)
 - [Project 5 Title](http://example.com/)
 - [Project 6 Title](http://example.com/)
 - [Project 7 Title](http://example.com/)
