@@ -30,11 +30,6 @@ Which was the most recent to pay?
 - Borrower with most loans:  Ministry of Eco, Planning and RegionDev
 - Most recent pay date was on 12/28/2022 
 
-### Setup
-
-I used [Bit.io](http://bit.io/) an online SQL editor where I was able to upload the World bank data, to run the queries, and output the query results. 
-It took a bit of time to load because of the amouont of the rows in the file, so smaller datasets whould take long.
-
 ## **Data Details**
 The financial data comes from the [World Bank Group Finances website](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx)  - this dataset contains historical snapshots of the IDA Statement of Credits and Grants including the snapshot available as of ‎March ‎11, ‎2023 (when the file was downloaded). The World Bank complies with all sanctions applicable to World Bank transactions - this information is updated on a monthly basis.
 
@@ -52,6 +47,10 @@ datetime - End of Period,  First Repayment Date,  Last Repayment Date, Agreement
 float - Service Charge Rate , Original Principal Amount,  Cancelled Amount , Undisbursed Amount, Borrower's Obligation, Sold 3rd Party,  Repaid 3rd Party, Due 3rd Party, Credits Held, Disbursed Amount, Repaid to IDA
 
 text - Credit Number, Region, Country Code,  Country,  Borrower, Credit Status, Currency of Commitment, Project ID, Project Name, Due to IDA,           Exchange Adjustment
+
+## **Set Up**
+I used [Bit.io](http://bit.io/) an online SQL editor where I was able to upload the World bank data, to run the queries, and output the query results. 
+It took a bit of time to load because of the amouont of the rows in the file, so smaller datasets whould take long.
 
 ## **Analysis**
 To get familiar with the dataset, I ran the query to view all the information by running SELECT * to view all the rows and columns. The SQL Editor limits the amount of rows that are displayed, so for most queries only about 20 rows are displayed by adding the LIMIT 20 to the query.
@@ -261,3 +260,5 @@ This was not a kaggle dataset, it required a bit of filtering to clean up some o
 - The borrower that has the most loans is Ministry of Eco, Planning and RegionDev
 - The most recent pay (date) was on 12/28/2022 for the period ending 12/31/2022
 
+---
+Thank you for reading!
