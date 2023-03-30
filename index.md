@@ -30,8 +30,8 @@ Which was the most recent to pay? Who has the most loans?
 
 
 ---
-#### [SQL Healthcare Analysis](https://www.linkedin.com/pulse/ /)
-[<img src="images/SQL Healthcare Analytics Project.png?raw=true"/>](https://www.linkedin.com/pulse/ /)
+#### [SQL Healthcare Analysis](https://www.linkedin.com/pulse/ )
+[<img src="images/SQL Healthcare Analytics Project.png?raw=true"/>](https://www.linkedin.com/pulse/ )
 
 
 
