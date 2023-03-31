@@ -30,9 +30,9 @@ Which was the most recent to pay? Who has the most loans?
 
 
 ---
-#### [SQL Healthcare Analysis](https://www.linkedin.com/pulse/ )
-[<img src="images/SQL Healthcare Analytics Project.png?raw=true"/>](https://www.linkedin.com/pulse/ )
-
+#### [SQL Healthcare Analysis](https://www.linkedin.com/pulse/sql-healthcare-analysis-juanita-p)
+[<img src="images/SQL Healthcare Analytics Project.png?raw=true"/>](https://www.linkedin.com/pulse/sql-healthcare-analysis-juanita-p)
+In this latest case study, I have been hired as a healthcare data analyst at a hospital and will be working with patient data. As a new data analyst, some of my first tasks include a visualization of the distribution of time spent in the hospital, a list of the medical specialties with an average number of procedures, investigating if the hospital is subconsciously treating races differently, exploring the relationship between the number of lab procedures and time spent in the hospital, and list of the patients who had an emergency but left the hospital faster than the average.
 
 
 ---
@@ -42,7 +42,7 @@ Which was the most recent to pay? Who has the most loans?
 - [iFoods Marketing Analysis Project](https://www.linkedin.com/pulse/ifoods-marketing-analysis-juanita-p/)
 - [Data for Ed Good - Massachusetts School Analysis Project](https://www.linkedin.com/pulse/data-ed-good-massachusetts-school-analysis-juanita-p/)
 - [World Bank - SQL Financial Banking Project](/bank.md)
-- [SQL Healthcare Analysis](http://example.com/)
+- [SQL Healthcare Analysis](https://www.linkedin.com/pulse/sql-healthcare-analysis-juanita-p)
 - [Project 5 Title](http://example.com/)
 - [Project 6 Title](http://example.com/)
 - [Project 7 Title](http://example.com/)
