@@ -27,15 +27,15 @@ Which was the most recent to pay?
 |5 | Afghanistan	    |  $14,708 |
 
 - Max owed to IDA: $20,713,474,676,596.793
-- Borrower with most loans:  Ministry of Eco, Planning and RegionDev
-- Most recent pay date was on 12/28/2022 
+- The borrower with most loans:  Ministry of Eco, Planning and RegionDev
+- The most recent pay date was on 12/28/2022 
 
 ## **Data Details**
-The financial data comes from the [World Bank Group Finances website](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx)  - this dataset contains historical snapshots of the IDA Statement of Credits and Grants including the snapshot available as of ‎March ‎11, ‎2023 (when the file was downloaded). The World Bank complies with all sanctions applicable to World Bank transactions - this information is updated on a monthly basis.
+The financial data comes from the [World Bank Group Finances website](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx). This dataset contains historical snapshots of the IDA Statement of Credits and Grants - including the snapshot available as of ‎March ‎11, ‎2023 (when the file was downloaded). The World Bank complies with all sanctions applicable to World Bank transactions - this information is updated on a monthly basis.
 
 (from the website)
 
-The International Development Association (IDA) credits are public and publicly guaranteed debt extended by the World Bank Group. IDA provides development credits, grants and guarantees to its recipient member countries to help meet their development needs. Credits from IDA are at concessional rates. Data are in U.S. dollars calculated using historical rates. 
+The International Development Association (IDA) credits are public and publicly guaranteed debt extended by the World Bank Group. IDA provides development credits, grants, and guarantees to its recipient member countries to help meet their development needs. Credits from IDA are at concessional rates. Data are in U.S. dollars - calculated using historical rates. 
 
 The dataset includes: 
 1.15M rows and 30 columns where each row is a - Credit or Grant
@@ -44,16 +44,16 @@ Data types
 
 datetime - End of Period,  First Repayment Date,  Last Repayment Date, Agreement Signing Date, Board Approval Date,  Effective Date (Most Recent), Closed Date (Most Recent), Last Disbursement Date 
 
-float - Service Charge Rate , Original Principal Amount,  Cancelled Amount , Undisbursed Amount, Borrower's Obligation, Sold 3rd Party,  Repaid 3rd Party, Due 3rd Party, Credits Held, Disbursed Amount, Repaid to IDA
+float - Service Charge Rate, Original Principal Amount, Cancelled Amount, Undisbursed Amount, Borrower's Obligation, Sold 3rd Party,  Repaid 3rd Party, Due 3rd Party, Credits Held, Disbursed Amount, Repaid to IDA
 
 text - Credit Number, Region, Country Code,  Country,  Borrower, Credit Status, Currency of Commitment, Project ID, Project Name, Due to IDA,           Exchange Adjustment
 
-## **Set Up**
-I used [Bit.io](http://bit.io/) an online SQL editor where I was able to upload the World bank data, to run the queries, and output the query results. 
-It took a bit of time to load because of the amouont of the rows in the file, so smaller datasets whould take long.
+## **Set-Up**
+I used [Bit.io](http://bit.io/), an online SQL editor - where I was able to upload the World bank data, run the queries, and output the query results. 
+It took a bit of time to load because of the number of rows in the file, so smaller datasets would not take long.
 
 ## **Analysis**
-To get familiar with the dataset, I ran the query to view all the information by running SELECT * to view all the rows and columns. The SQL Editor limits the amount of rows that are displayed, so for most queries only about 20 rows are displayed by adding the LIMIT 20 to the query.
+To get familiar with the dataset, I ran the query to view all the information by running SELECT * to view all the rows and columns. The SQL Editor limits the amount of rows displayed, so for most queries, only about 20 rows are displayed - by adding the LIMIT 20 to the query statement.
 ```sql
 --Return all of the table
 SELECT *
@@ -68,7 +68,7 @@ FROM "IDA_Statement_Of_Credits_and_Grants__Historical_Data.csv";
 <img src="images/total_transactions.png?raw=true"/>
 
 
-Next, I wanted to review how many total transactions were there per country?
+Next, I wanted to review how many total transactions were there per country.
 ```sql
 SELECT country, COUNT(*) AS t_transactions
 FROM "IDA_Statement_Of_Credits_and_Grants__Historical_Data.csv"
@@ -85,14 +85,14 @@ output (display only top 5)
 |4 | Angola			 |	3377 |
 |5 | Armenia		 |	9137 |
 
-How much is owed (in total) ato the IDA?
+How much is owed (in total) to the IDA?
 ```sql
 SELECT SUM("Due to IDA") 
 FROM "IDA_Statement_Of_Credits_and_Grants__Historical_Data.csv";
 ```
 <img src="images/total_owed_ida.png?raw=true"/>
 
-Then, I wanted to see how much was owed to the IDA across the different regions
+Then, I wanted to see how much was owed to the IDA across the different regions.
 ```sql
 SELECT region, "Due to IDA" AS due 
 FROM "IDA_Statement_Of_Credits_and_Grants__Historical_Data.csv"
@@ -124,9 +124,9 @@ output
 |20 | EUROPE AND CENTRAL ASIA | $13252322.45 |
 
 
-To get into the details a bit more, on how much is owed to the IDA - I decided to look into: 
+To get into the details a bit more,  I wanted to focus on how much is owed to the IDA - I decided to look into: 
 - Adding the borrower, country to know where the borrower is from, and where borrower owes more than $0
-- and sorted by the the amount owed by using ORDER BY "Due to IDA" in descending order
+- and sorted by the amount owed by using ORDER BY "Due to IDA" in descending order
 - but was interested in just reviewing the top 5 borrowers that owed the most.
 
 ```sql
@@ -206,8 +206,8 @@ output
 
 Now back to the list of questions.
 Who has the most loans? 
-To answer this question I had to play around with the columns a bit.
-So, to get the borrower who had the most loans, I wanted to narrow down borrowers who still owe money and had the most loans.
+To answer this question - I had to play around with the columns a bit.
+So, to get the borrower who has the most loans, I wanted to narrow down borrowers who still owe money and had the most loans.
 
 ```sql
 SELECT Borrower, country, "Project Name", 
@@ -221,11 +221,11 @@ LIMIT 20
 output
 <img src="images/most_loans.png?raw=true"/>
 
-Next, the last question to be answered  - Which was the most recent to pay?
-For this question there are not too many details, so first I needed to review all the columns that are datetime data types. 
+Next, the last question to be answered is - Which was the most recent to pay?
+For this question - there are not too many details, so first, I needed to review all the columns that are datetime data types. 
 <img src="images/datetime.png?raw=true"/>
 
-From the data dictionary the most likely datetime columns that need to be reviewed include:
+From the data dictionary, the most likely datetime columns that need to be reviewed include:
 <img src="images/data_dictionary.png?raw=true"/>
 
 After several iterations of tweaking the query – the query and results are:
@@ -243,10 +243,10 @@ output
 
 ## **Observations and Insights**
 
-This was not a kaggle dataset, it required a bit of filtering to clean up some of the results for the more involved queries. As most real-world data, the data continuously is being updated, so the details the analysis will change with later updated snapshots from the World Bank.
+This was not a Kaggle dataset, it required a bit of filtering to clean up some of the results for the more involved queries. As with most real-world data, the data is continuously being updated, so the details of the analysis will change with later updated snapshots from the World Bank.
 
-- The total transactions during this period was $1,140,120.00
-- The total transactions per country were (top 5 from 20  from output - not sorted)
+- The total transactions during this period were $1,140,120.00
+- The total transactions per country were (top 5 from 20  from the output - not sorted)
 
 | | country	      |  t_transactions |
 | ------------- |:-------------:| -----:|
@@ -257,7 +257,7 @@ This was not a kaggle dataset, it required a bit of filtering to clean up some o
 |5 | Afghanistan	    |  $14,708 |
 
 - The maximum owed to the IDA is $20,713,474,676,596.793
-- The borrower that has the most loans is Ministry of Eco, Planning and RegionDev
+- The borrower that has the most loans is the Ministry of Eco, Planning and RegionDev
 - The most recent pay (date) was on 12/28/2022 for the period ending 12/31/2022
 
 ---
