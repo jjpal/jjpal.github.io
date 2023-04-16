@@ -31,7 +31,7 @@ Which was the most recent to pay?
 - The most recent pay date was on 12/28/2022 
 
 ## **Data Details**
-The financial data comes from the [World Bank Group Finances website](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx). The dataset contains historical snapshots of the IDA Statement of Credits and Grants - including the snapshot available as of ‎March ‎11, ‎2023 (when the file was downloaded). The World Bank complies with all sanctions applicable to World Bank transactions - this information is updated on a monthly basis.
+The financial data comes from the [World Bank Group Finances website](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx). The dataset contains historical snapshots of the IDA Statement of Credits and Grants (including the snapshot available as of 03/11/2023 when downloaded). The World Bank complies with all sanctions applicable to World Bank transactions updated monthly.
 
 (from the website)
 
