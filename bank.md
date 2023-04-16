@@ -31,7 +31,7 @@ Which was the most recent to pay?
 - The most recent pay date was on 12/28/2022 
 
 ## **Data Details**
-The financial data comes from the [World Bank Group Finances website](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx). This dataset contains historical snapshots of the IDA Statement of Credits and Grants - including the snapshot available as of ‎March ‎11, ‎2023 (when the file was downloaded). The World Bank complies with all sanctions applicable to World Bank transactions - this information is updated on a monthly basis.
+The financial data comes from the [World Bank Group Finances website](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx). The dataset contains historical snapshots of the IDA Statement of Credits and Grants - including the snapshot available as of ‎March ‎11, ‎2023 (when the file was downloaded). The World Bank complies with all sanctions applicable to World Bank transactions - this information is updated on a monthly basis.
 
 (from the website)
 
@@ -49,11 +49,11 @@ float - Service Charge Rate, Original Principal Amount, Cancelled Amount, Undisb
 text - Credit Number, Region, Country Code,  Country,  Borrower, Credit Status, Currency of Commitment, Project ID, Project Name, Due to IDA,           Exchange Adjustment
 
 ## **Set-Up**
-I used [Bit.io](http://bit.io/), an online SQL editor - where I was able to upload the World bank data, run the queries, and output the query results. 
+I used [Bit.io](http://bit.io/), an online SQL editor.  I uploaded the World Bank data, ran the queries, and output the results. 
 It took a bit of time to load because of the number of rows in the file, so smaller datasets would not take long.
 
 ## **Analysis**
-To get familiar with the dataset, I ran the query to view all the information by running SELECT * to view all the rows and columns. The SQL Editor limits the amount of rows displayed, so for most queries, only about 20 rows are displayed - by adding the LIMIT 20 to the query statement.
+To get familiar with the dataset, I ran the query to view all the information by running SELECT * to view all the rows and columns. The SQL Editor limits the number of rows displayed, so for most queries, only about 20 rows are displayed - by adding the LIMIT 20 to the query statement.
 ```sql
 --Return all of the table
 SELECT *
@@ -124,7 +124,7 @@ output
 |20 | EUROPE AND CENTRAL ASIA | $13252322.45 |
 
 
-To get into the details a bit more,  I wanted to focus on how much is owed to the IDA - I decided to look into: 
+To get into the details a bit more, I wanted to focus on how much is owed to the IDA - I decided to look into: 
 - Adding the borrower, country to know where the borrower is from, and where borrower owes more than $0
 - and sorted by the amount owed by using ORDER BY "Due to IDA" in descending order
 - but was interested in just reviewing the top 5 borrowers that owed the most.
@@ -207,7 +207,7 @@ output
 Now back to the list of questions.
 Who has the most loans? 
 To answer this question - I had to play around with the columns a bit.
-So, to get the borrower who has the most loans, I wanted to narrow down borrowers who still owe money and had the most loans.
+So, to get the borrower who has the most loans, I wanted to narrow down borrowers who still owed money and had the most loans.
 
 ```sql
 SELECT Borrower, country, "Project Name", 
@@ -243,7 +243,7 @@ output
 
 ## **Observations and Insights**
 
-This was not a Kaggle dataset, it required a bit of filtering to clean up some of the results for the more involved queries. As with most real-world data, the data is continuously being updated, so the details of the analysis will change with later updated snapshots from the World Bank.
+This was not a Kaggle dataset, so it required a bit of filtering to clean up some of the results for the more involved queries. As with most real-world data, the data is continuously being updated, so the details of the analysis will change with later updated snapshots from the World Bank.
 
 - The total transactions during this period were $1,140,120.00
 - The total transactions per country were (top 5 from 20  from the output - not sorted)
