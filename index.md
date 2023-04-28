@@ -36,6 +36,18 @@ In this latest case study, I have been hired as a healthcare data analyst at a h
 
 
 ---
+#### [Tableau Sports Analytics Project](/sports.md)
+<img src="images/Sports Analysis Project.png?raw=true"/>
+For this case study, I do some visual exploratory analysis with Tableau as a data analyst with a sporting team.
+
+
+---
+#### [Analytics with Python - Engineering Project](https://www.linkedin.com/pulse/analytics-python-engineering-project-juanita-p/)
+[<img src="images/Python_Eng_prj.png?raw=true"/>](https://www.linkedin.com/pulse/analytics-python-engineering-project-juanita-p/)
+For this case study, I am analyzing the data as a hired data analyst for an engineering/mining company called Metals R Us. The data is given to me by the mineral processing engineers from their flotation plant that separates iron from other minerals and wastes in the ore.
+
+
+---
 ### All Data Projects
 
 ---
@@ -43,8 +55,8 @@ In this latest case study, I have been hired as a healthcare data analyst at a h
 - [Data for Ed Good - Massachusetts School Analysis Project](https://www.linkedin.com/pulse/data-ed-good-massachusetts-school-analysis-juanita-p/)
 - [World Bank - SQL Financial Banking Project](/bank.md)
 - [SQL Healthcare Analysis](https://www.linkedin.com/pulse/sql-healthcare-analysis-juanita-p)
-- [Project 5 Title](http://example.com/)
-- [Project 6 Title](http://example.com/)
+- [Tableau Sports Analytics Project](/sports.md)
+- [Analytics with Python - Engineering Project](https://www.linkedin.com/pulse/analytics-python-engineering-project-juanita-p/)
 - [Project 7 Title](http://example.com/)
 - [Project 8 Title](http://example.com/)
 - [Project 9 Title](http://example.com/)
