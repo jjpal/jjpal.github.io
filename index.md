@@ -37,7 +37,7 @@ In this latest case study, I have been hired as a healthcare data analyst at a h
 
 ---
 #### [Tableau Sports Analytics Project](/sports.md)
-<img src="images/Sports Analysis Project.png?raw=true"/>
+[<img src="images/Sports Analysis Project.png?raw=true"/>](/sports.md)
 For this case study, I do some visual exploratory analysis with Tableau as a data analyst with a sporting team.
 
 
