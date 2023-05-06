@@ -40,11 +40,12 @@ The data will have to be manipulated depending on whether visualizing the team s
 
 ## **Analysis**
 As a data analyst being interviewed for a role on an NBA team, the first technical task is assigned by the assistant coach of the team. They want to know - what position is the most efficient at shooting 3-pointers for every team?
-One way to do this is using an XY Heatmap. It is a good way of showing the patterns between the two categories of data - in this case, average 3-point percentage (3P%) and Position (POS). 
+One way to do this is using an XY Heatmap. It is a good way of showing the patterns between the two categories of data - in this case, the average 3-point percentage (3P%) and Position (POS). 
 
 <img src="images/3pointers_Heatmap.png?raw=true"/>
 
-The darker color squares signal a higher efficiency, while lighter color signals lower to no efficiency for that position.
+The darker color squares signals a higher efficiency, while lighter colors signal lower to no efficiency for that position.
+
 
 ...
 
