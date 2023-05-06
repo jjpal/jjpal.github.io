@@ -1,13 +1,13 @@
 <img src="images/Sports Analysis Project.png?raw=true"/>
 
-# Visualizing Sports Analytics With Tableau 🏀
+# Visualizing Sports Analytics With Tableau <img src="/images/tableau_icon.png?raw=true"/>
 
 Sports analytics came up in popularization, in part, by the real-world success illustrated by the 2003 book and 2011 motion picture Moneyball. 
 Decision-making metrics can help teams on-field from which players to draft, trade, improve in-game strategies and nutrition plans to off-field to help monitor ticket and merchandise sales, improve fan engagement, and reduce operational costs. ​​​It uses data to measure areas like athletic performance and business health to optimize the processes and success as a whole - of a sports organization. 
 
 Traditionally decisions were made by instinct - complying with old traditions, newspapers, trading card scores, television and radio media commentary. Advancements in technology, analytics evolution with sports teams allow analysts to use various tools, like predictive analytics, machine learning, data mining, and virtual simulations.
 
-For this case study, I do some visual exploratory analysis with Tableau as a data analyst with a sporting team.
+For this case study, I do some visual exploratory analysis with Tableau as a data analyst with a basketball sports team.
 
 A few questions with this analysis include: 
 
@@ -21,18 +21,22 @@ What players had the most assists in every position?
 
 
 ## **Key Insights**
-*
-*
-*
-*
-*
+🏀 The best Position overall is the Shooting Guard (SG) with a 0.313103448275862 average. 
+
+🏀
+
+🏀
+
+🏀
+
+🏀
 
 ...
 ...
 ...
 
 ## **Data Details**
-The sports data is from the [basketball reference](https://www.basketball-reference.com/leagues/NBA_2022_totals.html) website. The data includes 813 rows and 31 columns. The data set consists of string and numeric data types. 
+The sports data is from the [basketball reference](https://www.basketball-reference.com/leagues/NBA_2022_totals.html) website. The data includes 813 rows and 31 columns. The data set consists of string and numeric data types. Some of the columns include Rank, Games Played, Games Started, Minutes Played, Field Goals Made/Attempted, FG%, 2/3Pointers Made/Attempted, 3P%, 2P%, and so on.
 
 The data will have to be manipulated depending on whether visualizing the team statistics or the individual player statistics. The data includes all player statistics, including when they are traded to different teams denoted by TOT descriptor.
 
@@ -45,14 +49,14 @@ One way to do this is using an XY Heatmap. It is a good way of showing the patte
 <img src="images/3pointers_Heatmap.png?raw=true"/>
 
 The darker color squares signals a higher efficiency, while lighter colors signal lower to no efficiency for that position.
-
+For these teams this season, it seems the best Position overall is the Shooting Guard (SG) with a 0.313103448275862 average, and the worst is the Center (C) with a 0.26448275862069 average. The highest team average for a Position is LA Clippers, with a 0.47 for the Small Forward. In contrast, the lowest team average is for Utah Jazz, with a 0.00 for the Center.
 
 ...
 
 
 ## **Observations and Insights**
-*
-*
+* The best most efficient Position for shooting 3-pointe overall is the Shooting Guard (SG) with a 0.313103448275862 average, and the worst is the Center (C) with a 0.26448275862069 average.
+* 
 *
 *
 *
