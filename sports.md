@@ -21,19 +21,44 @@ What players had the most assists in every position?
 
 
 ## **Key Insights**
+*
+*
+*
+*
+*
 
-
+...
+...
+...
 
 ## **Data Details**
+The sports data is from the [basketball reference](https://www.basketball-reference.com/leagues/NBA_2022_totals.html) website. The data includes 813 rows and 31 columns. The data set consists of string and numeric data types. 
 
+The data will have to be manipulated depending on whether visualizing the team statistics or the individual player statistics. The data includes all player statistics, including when they are traded to different teams denoted by TOT descriptor.
 
 [Data Dictionary](sports_data_dictionary.md)
 
 ## **Analysis**
+As a data analyst being interviewed for a role on an NBA team, the first technical task is assigned by the assistant coach of the team. They want to know - what position is the most efficient at shooting 3-pointers for every team?
+One way to do this is using an XY Heatmap. It is a good way of showing the patterns between the two categories of data - in this case, average 3-point percentage (3P%) and Position (POS). 
+
+<img src="images/3pointers_Heatmap.png?raw=true"/>
+
+The darker color squares signal a higher efficiency, while lighter color signals lower to no efficiency for that position.
+
+...
 
 
 ## **Observations and Insights**
+*
+*
+*
+*
+*
 
+...
+...
+...
 
 
 ---
