@@ -22,7 +22,7 @@ What players had the most assists in every position?
 ## **Key Insights**
 🏀 The best Position overall is the Shooting Guard (SG) with a 0.313103448275862 average. 
 
-🏀
+🏀 Trae Young is the point guard with the highest assists and points.
 
 🏀
 
@@ -35,14 +35,14 @@ What players had the most assists in every position?
 ...
 
 ## **Data Details**
-The sports data is from the [basketball reference](https://www.basketball-reference.com/leagues/NBA_2022_totals.html) website. The data includes 813 rows and 31 columns. The data set consists of string and numeric data types. Some of the columns include Rank, Games Played, Games Started, Minutes Played, Field Goals Made/Attempted, FG%, 2/3Pointers Made/Attempted, 3P%, 2P%, and so on.
+The sports data is from the [basketball reference](https://www.basketball-reference.com/leagues/NBA_2022_totals.html) website. The data includes 813 rows and 31 columns. The data set consists of string and numeric data types. Some columns include: Rank, Games Played, Games Started, Minutes Played, Field Goals Made/Attempted, FG%, 2/3Pointers Made/Attempted, 3P%, 2P%, and so on.
 
-The data will have to be manipulated depending on whether visualizing the team statistics or the individual player statistics. The data includes all player statistics, including when they are traded to different teams denoted by TOT descriptor.
+The data will have to be manipulated depending on whether visualizing the team statistics or the individual player statistics. The data includes all player statistics, including when traded to different teams denoted by TOT descriptor.
 
 [Data Dictionary](sports_data_dictionary.md)
 
 ## **Analysis**
-As a data analyst being interviewed for a role on an NBA team, the first technical task is assigned by the assistant coach of the team. They want to know - what position is the most efficient at shooting 3-pointers for every team?
+As a data analyst interviewing for a role on an NBA team, the first technical task is assigned by the assistant coach of the team. They want to know - what position is the most efficient at shooting 3-pointers for every team?
 One way to do this is using an XY Heatmap. It is a good way of showing the patterns between the two categories of data - in this case, the average 3-point percentage (3P%) and Position (POS). 
 
 <img src="images/3pointers_Heatmap.png?raw=true"/>
@@ -55,7 +55,12 @@ For the next part of the interview process, my task is to create a visualization
 
 <img src="images/TotaRebounds_BubbleChart.PNG?raw=true"/>
 
-Power Guards (green bubble) are higher on the chart compared to other positions - more assists. It also has the widest range in points from around 50 to close to 2200. Trae Young is the point guard with the highest assists and points. Nikola Jokic is the center that has the highest total rebounds. Highest assists for Power Forward, Shooting Guard, and Small Forward tend to max out around 300 to 400.
+Power Guards (green bubble) are higher on the chart compared to other positions - more assists. It also has the widest range in points from around 50 to close to 2200. Trae Young is the point guard with the highest assists (737) and points (2155). Nikola Jokic is the center that has the highest total rebounds (1019). Highest assists for Power Forward, Shooting Guard, and Small Forward tend to max out around 300 to 400.
+
+The panel has one additional requirement; to see the the total team points scored and indivdual players scores for the different teams in the NBA.
+For this task, I will use a stacked bar chart. The stacked bar chart, shows how a single entity is broken into it's component elements (part-to-whole relationships). Noting it can be hard to read with several components. If the target audience is interested exclusively in the size of the components  magnitude type chart should be considered.
+
+<img src="images/TeamTotalPoints_StackedBar.PNG?raw=true"/>
 
 
 ...
@@ -63,7 +68,7 @@ Power Guards (green bubble) are higher on the chart compared to other positions 
 
 ## **Observations and Insights**
 * The best most efficient Position for shooting 3-pointe overall is the Shooting Guard (SG) with a 0.313103448275862 average, and the worst is the Center (C) with a 0.26448275862069 average.
-* 
+* Nikola Jokic is the center that has the highest total rebounds (1019). Highest assists for Power Forward, Shooting Guard, and Small Forward tend to max out around 300 to 400.
 *
 *
 *
