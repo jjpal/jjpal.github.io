@@ -51,6 +51,10 @@ One way to do this is using an XY Heatmap. It is a good way of showing the patte
 The darker color squares signals a higher efficiency, while lighter colors signal lower to no efficiency for that position.
 For these teams this season, it seems the best Position overall is the Shooting Guard (SG) with a 0.313103448275862 average, and the worst is the Center (C) with a 0.26448275862069 average. The highest team average for a Position is LA Clippers, with a 0.47 for the Small Forward. In contrast, the lowest team average is for Utah Jazz, with a 0.00 for the Center.
 
+
+For the next part of the interview process, my task is to create a visualization of how different players performed last season for evaluation for potential free-agent signings. The panel mentioned, 'We'd like to see how players did on total points, total assists, total rebounds, and evaluate by position.' Thinking about the requirements for the task, first, I take note of the data types requested: three numeric (quantitative) variables: assists, points, rebounds, and one nominal (qualitative) variable: positions. To do this, I use a bubble plot. It is a scatterplot (X & Y axes) but adds third dimension detail by sizing the circles according to a third variable. All the three e numerical variables. 
+
+<img src="images/TotaRebounds_BubbleChart.PNG?raw=true"/>
 ...
 
 
