@@ -2,8 +2,7 @@
 
 # Visualizing Sports Analytics With Tableau <img src="/images/tableau_icon.png?raw=true"/>
 
-Sports analytics came up in popularization, in part, by the real-world success illustrated by the 2003 book and 2011 motion picture Moneyball. 
-Decision-making metrics can help teams on-field from which players to draft, trade, improve in-game strategies and nutrition plans to off-field to help monitor ticket and merchandise sales, improve fan engagement, and reduce operational costs. ​​​It uses data to measure areas like athletic performance and business health to optimize the processes and success as a whole - of a sports organization. 
+Sports analytics came up in popularization, in part, by the real-world success illustrated by the 2003 book and 2011 motion picture Moneyball. Decision-making metrics can help teams on-field from which players to draft, trade, improve in-game strategies and nutrition plans to off-field to help monitor ticket and merchandise sales, improve fan engagement, and reduce operational costs. ​​​It uses data to measure areas like athletic performance and business health to optimize the processes and success as a whole - of a sports organization. 
 
 Traditionally decisions were made by instinct - complying with old traditions, newspapers, trading card scores, television and radio media commentary. Advancements in technology, analytics evolution with sports teams allow analysts to use various tools, like predictive analytics, machine learning, data mining, and virtual simulations.
 
@@ -52,7 +51,7 @@ The darker color squares signals a higher efficiency, while lighter colors signa
 For these teams this season, it seems the best Position overall is the Shooting Guard (SG) with a 0.313103448275862 average, and the worst is the Center (C) with a 0.26448275862069 average. The highest team average for a Position is LA Clippers, with a 0.47 for the Small Forward. In contrast, the lowest team average is for Utah Jazz, with a 0.00 for the Center.
 
 
-For the next part of the interview process, my task is to create a visualization of how different players performed last season for evaluation for potential free-agent signings. The panel mentioned, 'We'd like to see how players did on total points, total assists, total rebounds, and evaluate by position.' Thinking about the requirements for the task, first, I take note of the data types requested: three numeric (quantitative) variables: assists, points, rebounds, and one nominal (qualitative) variable: positions. To do this, I use a bubble plot. It is a scatterplot (X & Y axes) but adds third dimension detail by sizing the circles according to a third variable. All the three e numerical variables. 
+For the next part of the interview process, my task is to create a visualization of how different players performed last season for evaluation for potential free-agent signings. The panel mentioned, 'We'd like to see how players did on total points, total assists, total rebounds, and evaluate by position.' Thinking about the requirements for the task, first, I take note of the data types requested: three numeric (quantitative) variables: assists, points, rebounds, and one nominal (qualitative) variable: positions. To do this, I use a bubble plot. It is a scatterplot (X & Y axes) but adds third-dimension detail by sizing the circles according to a third variable. All the three are numerical variables. 
 
 <img src="images/TotaRebounds_BubbleChart.PNG?raw=true"/>
 ...
