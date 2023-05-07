@@ -20,22 +20,17 @@ What players had the most assists in every position?
 
 
 ## **Key Insights**
-🏀 The best Position overall is the Shooting Guard (SG) with a 0.313103448275862 average. 
+🏀 The best Position overall is the Shooting Guard (SG) and the worst is the Center (C).
 
 🏀 Trae Young is the point guard with the highest assists and points.
 
-🏀
+🏀 The team with the highest points is the Minnesta Timberwoves, and the lowest is Oklahoma City Thunder.
 
 🏀
 
-🏀
-
-...
-...
-...
 
 ## **Data Details**
-The sports data is from the [basketball reference](https://www.basketball-reference.com/leagues/NBA_2022_totals.html) website. The data includes 813 rows and 31 columns. The data set consists of string and numeric data types. Some columns include: Rank, Games Played, Games Started, Minutes Played, Field Goals Made/Attempted, FG%, 2/3Pointers Made/Attempted, 3P%, 2P%, and so on.
+The sports data is from the [basketball reference](https://www.basketball-reference.com/leagues/NBA_2022_totals.html) website. The data includes 813 rows and 31 columns. The data set consists of string and numeric data types. Some columns include Rank, Games Played, Games Started, Minutes Played, Field Goals Made/Attempted, FG%, 2/3Pointers Made/Attempted, 3P%, 2P%, and so on.
 
 The data will have to be manipulated depending on whether visualizing the team statistics or the individual player statistics. The data includes all player statistics, including when traded to different teams denoted by TOT descriptor.
 
@@ -55,13 +50,14 @@ For the next part of the interview process, my task is to create a visualization
 
 <img src="images/TotaRebounds_BubbleChart.PNG?raw=true"/>
 
-Power Guards (green bubble) are higher on the chart compared to other positions - more assists. It also has the widest range in points from around 50 to close to 2200. Trae Young is the point guard with the highest assists (737) and points (2155). Nikola Jokic is the center that has the highest total rebounds (1019). Highest assists for Power Forward, Shooting Guard, and Small Forward tend to max out around 300 to 400.
+Power Guards (green bubble) are higher on the chart compared to other positions - more assists. It also has the widest range in points from around 50 to close to 2200. Trae Young is the point guard with the highest assists (737) and points (2155). Nikola Jokic is the center that has the highest total rebounds (1019). The highest assists for Power Forward, Shooting Guard, and Small Forward tend to max out around 300 to 400.
 
-The panel has one additional requirement; to see the the total team points scored and indivdual players scores for the different teams in the NBA.
-For this task, I will use a stacked bar chart. The stacked bar chart, shows how a single entity is broken into it's component elements (part-to-whole relationships). Noting it can be hard to read with several components. If the target audience is interested exclusively in the size of the components  magnitude type chart should be considered.
+The panel has one additional requirement; to see the total team points scored and individual players score for the different teams in the NBA.
+For this task, I will use a stacked bar chart. The stacked bar chart shows how a single entity is broken into component elements (part-to-whole relationships). Noting it can be hard to read with several components. If the target audience is interested exclusively in the size of the components magnitude-type chart should be considered.
 
 <img src="images/TeamTotalPoints_StackedBar.PNG?raw=true"/>
 
+The team with the highest points is the Minnesota Timberwolves (over 9000), and the lowest is Oklahoma City Thunder (around 8500). The individual players that stand out are DeMar DeRozan (Chicago Bulls), Jason Tatum (Boston Celtics), Trae Young (Atlanta Hawks), and Joel Embiid (Philadelphia 76ers).
 
 ...
 
@@ -69,7 +65,7 @@ For this task, I will use a stacked bar chart. The stacked bar chart, shows how 
 ## **Observations and Insights**
 * The best most efficient Position for shooting 3-pointe overall is the Shooting Guard (SG) with a 0.313103448275862 average, and the worst is the Center (C) with a 0.26448275862069 average.
 * Nikola Jokic is the center that has the highest total rebounds (1019). Highest assists for Power Forward, Shooting Guard, and Small Forward tend to max out around 300 to 400.
-*
+* The team with the highest points is the Minnesta Timberwolves (over 9000), and the lowest is Oklahoma City Thunder (around 8500) for the 21-22 season.
 *
 *
 
