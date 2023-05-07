@@ -54,6 +54,10 @@ For these teams this season, it seems the best Position overall is the Shooting 
 For the next part of the interview process, my task is to create a visualization of how different players performed last season for evaluation for potential free-agent signings. The panel mentioned, 'We'd like to see how players did on total points, total assists, total rebounds, and evaluate by position.' Thinking about the requirements for the task, first, I take note of the data types requested: three numeric (quantitative) variables: assists, points, rebounds, and one nominal (qualitative) variable: positions. To do this, I use a bubble plot. It is a scatterplot (X & Y axes) but adds third-dimension detail by sizing the circles according to a third variable. All the three are numerical variables. 
 
 <img src="images/TotaRebounds_BubbleChart.PNG?raw=true"/>
+
+Power Guards (green bubble) are higher on the chart compared to other positions - more assists. It also has the widest range in points from around 50 to close to 2200. Trae Young is the point guard with the highest assists and points. Nikola Jokic is the center that has the highest total rebounds. Highest assists for Power Forward, Shooting Guard, and Small Forward tend to max out around 300 to 400.
+
+
 ...
 
 
