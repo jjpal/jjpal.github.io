@@ -59,6 +59,12 @@ For this task, I will use a stacked bar chart. The stacked bar chart shows how a
 
 The team with the highest points is the Minnesota Timberwolves (over 9000), and the lowest is Oklahoma City Thunder (around 8500). The individual players that stand out are DeMar DeRozan (Chicago Bulls), Jason Tatum (Boston Celtics), Trae Young (Atlanta Hawks), and Joel Embiid (Philadelphia 76ers).
 
+
+The last task for the interview comes from the team's general manager - a visualization that helps them evaluate the league market in assists. 
+They want to improve the team's assist numbers for this upcoming 2022-2023 season. They want to know which players had the most assists in every position. 
+This task also requires a visualization that shows part-to-whole relationships or hierarchical structures. This last visualization task can be achieved, in many ways, but I would like to display this task using a treemap visualization. Treemaps are a more compact option for displaying proportions via their area size, which gives a quick overview of the hierarchical structure. 
+
+<img src="images/TeamAssists_Treemap.PNG?raw=true"/>
 ...
 
 
