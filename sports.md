@@ -26,7 +26,7 @@ What players had the most assists in every position?
 
 🏀 The team with the highest points is the Minnesta Timberwoves, and the lowest is Oklahoma City Thunder.
 
-🏀
+🏀 Positions highest number of assists PG 737, C 584, PF 388, SG 379, last SF 358
 
 
 ## **Data Details**
@@ -53,11 +53,11 @@ For the next part of the interview process, my task is to create a visualization
 Power Guards (green bubble) are higher on the chart compared to other positions - more assists. It also has the widest range in points from around 50 to close to 2200. Trae Young is the point guard with the highest assists (737) and points (2155). Nikola Jokic is the center that has the highest total rebounds (1019). The highest assists for Power Forward, Shooting Guard, and Small Forward tend to max out around 300 to 400.
 
 The panel has one additional requirement; to see the total team points scored and individual players score for the different teams in the NBA.
-For this task, I will use a stacked bar chart. The stacked bar chart shows how a single entity is broken into component elements (part-to-whole relationships). Noting it can be hard to read with several components. If the target audience is interested exclusively in the size of the components magnitude-type chart should be considered.
+For this task, I will use a stacked bar chart. The stacked bar chart shows how a single entity - is broken into component elements (part-to-whole relationships). Noting it can be hard to read with several components. If the target audience is interested exclusively in the size of the components magnitude-type chart should be considered.
 
 <img src="images/TeamTotalPoints_StackedBar.PNG?raw=true"/>
 
-The team with the highest points is the Minnesota Timberwolves (over 9000), and the lowest is Oklahoma City Thunder (around 8500). The individual players that stand out are DeMar DeRozan (Chicago Bulls), Jason Tatum (Boston Celtics), Trae Young (Atlanta Hawks), and Joel Embiid (Philadelphia 76ers).
+The team with the highest points is the Minnesota Timberwolves (over 9000), and the lowest is Oklahoma City Thunder (around 8700). The individual players that stand out are DeMar DeRozan (Chicago Bulls), Jason Tatum (Boston Celtics), Trae Young (Atlanta Hawks), and Joel Embiid (Philadelphia 76ers).
 
 
 The last task for the interview comes from the team's general manager - a visualization that helps them evaluate the league market in assists. 
@@ -65,19 +65,17 @@ They want to improve the team's assist numbers for this upcoming 2022-2023 seaso
 This task also requires a visualization that shows part-to-whole relationships or hierarchical structures. This last visualization task can be achieved, in many ways, but I would like to display this task using a treemap visualization. Treemaps are a more compact option for displaying proportions via their area size, which gives a quick overview of the hierarchical structure. 
 
 <img src="images/TeamAssists_Treemap.PNG?raw=true"/>
-...
 
+The Point Guard with the highest number of assists is Trae Young 737 assists. The Shooting Guard with highest AST points is Tyrese Haliburton, 379 from Sacramento Kings. The Power Forward with the highest number of assists is Giannis Antetokounmpo 388. The Small Forward with the highest number of assists is Khris Middleton 358, Both Forwards are from the Milwaukee Bucks. The last on the list is the C (Center) - with 584 Assists from Nikola Jokic (Denver Nuggets).
+
+I created a Tableau story - summarizing the tasks completed during the interview. 
+
+<img src="images/Story.PNG?raw=true"/>
 
 ## **Observations and Insights**
 * The best most efficient Position for shooting 3-pointe overall is the Shooting Guard (SG) with a 0.313103448275862 average, and the worst is the Center (C) with a 0.26448275862069 average.
-* Nikola Jokic is the center that has the highest total rebounds (1019). Highest assists for Power Forward, Shooting Guard, and Small Forward tend to max out around 300 to 400.
-* The team with the highest points is the Minnesta Timberwolves (over 9000), and the lowest is Oklahoma City Thunder (around 8500) for the 21-22 season.
-*
-*
+* Trae Young is the point guard with the highest assists (737) and points (2155). Nikola Jokic is the center that has the highest total rebounds (1019). 
+* The team with the highest points is the Minnesta Timberwolves (9,983), and the lowest is Oklahoma City Thunder (around 870) for the 21-22 season.
+* Positions with highest number of assists - Point Guard 737 (Trae Young), Center 584 (Nikola Jokic), Power Forward 388 (Giannis Antetokounmpo),
+Shooting Guard 379 (Tyrese Haliburton), and Small Forward  358 (Khris Middleton).
 
-...
-...
-...
-
-
----
