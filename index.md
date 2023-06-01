@@ -34,9 +34,8 @@ Which was the most recent to pay? Who has the most loans?
 [<img src="images/SQL Healthcare Analytics Project.png?raw=true"/>](https://www.linkedin.com/pulse/sql-healthcare-analysis-juanita-p)
 In this latest case study, I have been hired as a healthcare data analyst at a hospital and will be working with patient data. As a new data analyst, some of my first tasks include a visualization of the distribution of time spent in the hospital, a list of the medical specialties with an average number of procedures, investigating if the hospital is subconsciously treating races differently, exploring the relationship between the number of lab procedures and time spent in the hospital, and list of the patients who had an emergency but left the hospital faster than the average.
 
-
 ---
-#### [Tableau Sports Analytics Project](/sports.md)
+#### [Visualizing Sports Analytics With Tableau](/sports.md)
 [<img src="images/Sports Analysis Project.png?raw=true"/>](/sports.md)
 For this case study, I do some visual exploratory analysis with Tableau as a data analyst with a sporting team.
 A few questions with this analysis include: 
@@ -51,18 +50,22 @@ What players had the most assists in every position?
 [<img src="images/Python_Eng_prj.png?raw=true"/>](https://www.linkedin.com/pulse/analytics-python-engineering-project-juanita-p/)
 For this case study, I am analyzing the data as a hired data analyst for an engineering/mining company called Metals R Us. The data is given to me by the mineral processing engineers from their flotation plant that separates iron from other minerals and wastes in the ore.
 
+---
+#### [Analyzing 🕋 HR Data with R](https://www.linkedin.com/pulse/analyzing-hr-data-r-juanita-p)
+[<img src="images/hr_analytics_r.png?raw=true"/>](https://www.linkedin.com/pulse/analyzing-hr-data-r-juanita-p)
+For this case study, I am delving into the People Analytics data that will assist HR Team with insights. HR/People Analytics offers numerous advantages to organizations but must be mindful of the potential drawbacks and address them proactively to harness its full potential and ensure its successful implementation.
 
 ---
 ### All Data Projects
 
 ---
-- [iFoods Marketing Analysis Project](https://www.linkedin.com/pulse/ifoods-marketing-analysis-juanita-p/)
-- [Data for Ed Good - Massachusetts School Analysis Project](https://www.linkedin.com/pulse/data-ed-good-massachusetts-school-analysis-juanita-p/)
-- [World Bank - SQL Financial Banking Project](/bank.md)
-- [SQL Healthcare Analysis](https://www.linkedin.com/pulse/sql-healthcare-analysis-juanita-p)
-- [Tableau Sports Analytics Project](/sports.md)
-- [Analytics with Python - Engineering Project](https://www.linkedin.com/pulse/analytics-python-engineering-project-juanita-p/)
-- [Project 7 Title](http://example.com/)
+- [iFoods 🛒 Marketing Analysis Project](https://www.linkedin.com/pulse/ifoods-marketing-analysis-juanita-p/)
+- [Data for Ed Good 📚  Massachusetts School Analysis Project](https://www.linkedin.com/pulse/data-ed-good-massachusetts-school-analysis-juanita-p/)
+- [World Bank 💲 SQL Financial Banking Project](/bank.md)
+- [SQL Healthcare 🏥 Analysis](https://www.linkedin.com/pulse/sql-healthcare-analysis-juanita-p)
+- [Visualizing Sports 🏀 Analytics With Tableau](/sports.md)
+- [Analytics with Python 👷‍♀️ Engineering Project](https://www.linkedin.com/pulse/analytics-python-engineering-project-juanita-p/)
+- [Analyzing 🕋 HR Data with R](https://www.linkedin.com/pulse/analyzing-hr-data-r-juanita-p)
 - [Project 8 Title](http://example.com/)
 - [Project 9 Title](http://example.com/)
 - [Project 10 Title](http://example.com/)
