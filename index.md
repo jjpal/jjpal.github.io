@@ -60,6 +60,7 @@ For this case study, I am delving into the People Analytics data that will assis
 ---
 #### [Tableau State of the Data Visualization Industry Survey Exploratory Analysis](https://www.linkedin.com/pulse/tableau-state-data-visualization-industry-survey-exploratory-p/)
 [<img src="images/DVS_Survey_Challenge.png?raw=true" alt="dvs_survey2022"/>](https://www.linkedin.com/pulse/tableau-state-data-visualization-industry-survey-exploratory-p/)
+I participated in the State of the Data Visualization Industry Survey Challenge using the Data Visualization Society 2022 survey data. 
 
 ---
 ### All Data Projects
