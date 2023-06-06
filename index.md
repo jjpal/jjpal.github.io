@@ -58,6 +58,10 @@ For this case study, I am analyzing the data as a hired data analyst for an engi
 For this case study, I am delving into the People Analytics data that will assist HR Team with insights. HR/People Analytics offers numerous advantages to organizations but must be mindful of the potential drawbacks and address them proactively to harness its full potential and ensure its successful implementation.
 
 ---
+#### [Tableau State of the Data Visualization Industry Survey Exploratory Analysis](https://www.linkedin.com/pulse/tableau-state-data-visualization-industry-survey-exploratory-p/)
+[<img src="images/DVS_Survey_Challenge.png?raw=true" alt="dvs_survey2022"/>](https://www.linkedin.com/pulse/tableau-state-data-visualization-industry-survey-exploratory-p/)
+
+---
 ### All Data Projects
 
 ---
@@ -68,7 +72,7 @@ For this case study, I am delving into the People Analytics data that will assis
 - [Visualizing Sports 🏀 Analytics With Tableau](/sports.md)
 - [Analytics with Python 👷‍♀️ Engineering Project](https://www.linkedin.com/pulse/analytics-python-engineering-project-juanita-p/)
 - [Analyzing 🕋 HR Data with R](https://www.linkedin.com/pulse/analyzing-hr-data-r-juanita-p)
-- [Project 8 Title](http://example.com/)
+- [Tableau State of the Data Visualization Industry Survey Exploratory Analysis](https://www.linkedin.com/pulse/tableau-state-data-visualization-industry-survey-exploratory-p/)
 - [Project 9 Title](http://example.com/)
 - [Project 10 Title](http://example.com/)
 
