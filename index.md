@@ -1,6 +1,7 @@
 # Welcome to My Portfolio
----
-[![Header](https://github.com/jjpal/jjpal/blob/main/assets/header.jpg "Header")](https://public.tableau.com/app/profile/jj1485)
+
+<img src="images/header2.jpg?raw=true"/>
+
 ---
 
 ### Hi 👋 Learn About My Data 📈 Projects
