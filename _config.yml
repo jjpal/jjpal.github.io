@@ -2,15 +2,15 @@ title: Juanita # your name (or website title) here
 logo: "/images/datapresentation - mod.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Analyst 
-  ╔══════════════════╗ <br><br>
+  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ <br><br>
   📊 Data Analytics | Data Engineering | <br>
   💻 Analytics Engineering | BI Analyst <br><br>
   ✅ SQL | Python | Tableau | R <br><br>
   📚 Data Storytelling | Always Learning <br><br>
   🐕 Data Informed Dog Mom <br><br>
-  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+  ╔══════════════════╗
   <a href="https://www.linkedin.com/in/juanita-jj-palomar/"> LinkedIn Profile</a>
-  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
