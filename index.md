@@ -1,4 +1,4 @@
-# Welcome to My Portfolio
+# Welcome to my Portfolio 
 
 <img src="images/header2.jpg?raw=true"/>
 
