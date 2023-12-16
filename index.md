@@ -1,4 +1,4 @@
-# Welcome to my Portfolio 
+# Welcome to JJPAL Data Portfolio 
 
 <img src="images/header2.jpg?raw=true"/>
 
