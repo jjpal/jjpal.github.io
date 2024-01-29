@@ -84,7 +84,7 @@ I participated in the State of the Data Visualization Industry Survey Challenge 
 
 #### [Data Notes](/data_notes.md)
 ---
-### [Tableau](https://public.tableau.com/app/profile/jj1485) 
+### [Tableau Public Profile](https://public.tableau.com/app/profile/jj1485) 
 [<img src="/images/tableau_icon.png?raw=true"/>](https://public.tableau.com/app/profile/jj1485)
 
 ---
