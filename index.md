@@ -4,13 +4,13 @@
 
 ---
 
-### Hi 👋 Learn About My Data 
+## Hi 👋 Learn About My Data 
 
-# 📈 Projects
+## 📈 Projects
 
 
 #### [iFoods Marketing Analysis Project](https://www.linkedin.com/pulse/ifoods-marketing-analysis-juanita-p/)
-[<img src="/images/iFoods Analytics.png?raw=true" alt="ifoods_prod_analysis" width="500"/>](https://www.linkedin.com/pulse/ifoods-marketing-analysis-juanita-p/)
+[<img src="/images/iFoods Analytics.png?raw=true" alt="ifoods_prod_analysis" width="400"/>](https://www.linkedin.com/pulse/ifoods-marketing-analysis-juanita-p/)
 My first write up for Avery Smith's Data Analytics Accelerator, the task was to analyze the iFoods food delivery service data. The main focuses were:
  Customers purchases (most spent, least spent, average, total), 
  Marketing campaigns (which was most popular),
@@ -47,7 +47,6 @@ What position is the most efficient at shooting 3-pointers for every team?
 How did different players score on total points, total assists, and total rebounds?
 What are the total points scored by each team, and how did players on the team score?
 What players had the most assists in every position?
-
 
 ---
 #### [Analytics with Python - Engineering Project](https://www.linkedin.com/pulse/analytics-python-engineering-project-juanita-p/)
