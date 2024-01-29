@@ -11,6 +11,7 @@
 
 #### [iFoods Marketing Analysis Project](https://www.linkedin.com/pulse/ifoods-marketing-analysis-juanita-p/)
 [<img src="/images/iFoods Analytics.png?raw=true" alt="ifoods_prod_analysis" width="400"/>](https://www.linkedin.com/pulse/ifoods-marketing-analysis-juanita-p/)
+
 My first write up for Avery Smith's Data Analytics Accelerator, the task was to analyze the iFoods food delivery service data. The main focuses were:
  Customers purchases (most spent, least spent, average, total), 
  Marketing campaigns (which was most popular),
@@ -19,7 +20,8 @@ My first write up for Avery Smith's Data Analytics Accelerator, the task was to 
  
 ---
 #### [Massachusetts School Analysis Project](https://www.linkedin.com/pulse/data-ed-good-massachusetts-school-analysis-juanita-p/)
-[<img src="images/Education Project M3.jpg?raw=true" alt="school_analysis" width="500"/>](https://www.linkedin.com/pulse/data-ed-good-massachusetts-school-analysis-juanita-p/)
+[<img src="images/Education Project M3.jpg?raw=true" alt="school_analysis" width="400"/>](https://www.linkedin.com/pulse/data-ed-good-massachusetts-school-analysis-juanita-p/)
+
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
@@ -27,7 +29,8 @@ What are the top math schools in the state?
 
 ---
 #### [World Bank - SQL Financial Banking Project](/bank.md)
-[<img src="images/SQL Banking Project(1).jpg?raw=true" alt="financial_analysis" width="500"/>](/bank.md)
+[<img src="images/SQL Banking Project(1).jpg?raw=true" alt="financial_analysis" width="400"/>](/bank.md)
+
 For this case study, I was tasked to do some initial exploratory analysis with SQL as a financial analyst with the World Bank.
 A few questions with this analysis include: How many total transactions? How many total transactions per country? What is the max owed to the IDA? 
 Which was the most recent to pay? Who has the most loans?
@@ -35,12 +38,14 @@ Which was the most recent to pay? Who has the most loans?
 
 ---
 #### [SQL Healthcare Analysis](https://www.linkedin.com/pulse/sql-healthcare-analysis-juanita-p)
-[<img src="images/SQL Healthcare Analytics Project.png?raw=true" alt="health_analysis" width="500"/>](https://www.linkedin.com/pulse/sql-healthcare-analysis-juanita-p)
+[<img src="images/SQL Healthcare Analytics Project.png?raw=true" alt="health_analysis" width="400"/>](https://www.linkedin.com/pulse/sql-healthcare-analysis-juanita-p)
+
 In this latest case study, I have been hired as a healthcare data analyst at a hospital and will be working with patient data. As a new data analyst, some of my first tasks include a visualization of the distribution of time spent in the hospital, a list of the medical specialties with an average number of procedures, investigating if the hospital is subconsciously treating races differently, exploring the relationship between the number of lab procedures and time spent in the hospital, and list of the patients who had an emergency but left the hospital faster than the average.
 
 ---
 #### [Visualizing Sports Analytics With Tableau](/sports.md)
-[<img src="images/Sports Analysis Project.png?raw=true" alt="sports_analysis" width="500"/>](/sports.md)
+[<img src="images/Sports Analysis Project.png?raw=true" alt="sports_analysis" width="400"/>](/sports.md)
+
 For this case study, I do some visual exploratory analysis with Tableau as a data analyst with a sporting team.
 A few questions with this analysis include: 
 What position is the most efficient at shooting 3-pointers for every team?
