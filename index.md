@@ -1,6 +1,6 @@
 # Welcome to JJPAL Data Portfolio 
 
-<img src="images/header2.jpg?raw=true"/>
+<img src="images/header2.jpg?raw=true" alt="header" width="700"/>
 
 ---
 
@@ -56,11 +56,13 @@ What players had the most assists in every position?
 ---
 #### [Analytics with Python - Engineering Project](https://www.linkedin.com/pulse/analytics-python-engineering-project-juanita-p/)
 [<img src="images/Python_Eng_prj.png?raw=true" alt="eng_python_analysis" width="700"/>](https://www.linkedin.com/pulse/analytics-python-engineering-project-juanita-p/)
+
 For this case study, I am analyzing the data as a hired data analyst for an engineering/mining company called Metals R Us. The data is given to me by the mineral processing engineers from their flotation plant that separates iron from other minerals and wastes in the ore.
 
 ---
 #### [Analyzing 🕋 HR Data with R](https://www.linkedin.com/pulse/analyzing-hr-data-r-juanita-p)
 [<img src="images/hr_analytics_r.png?raw=true" alt="r_hr_analysis" width="700"/>](https://www.linkedin.com/pulse/analyzing-hr-data-r-juanita-p)
+
 For this case study, I am delving into the People Analytics data that will assist HR Team with insights. HR/People Analytics offers numerous advantages to organizations but must be mindful of the potential drawbacks and address them proactively to harness its full potential and ensure its successful implementation.
 
 ---
