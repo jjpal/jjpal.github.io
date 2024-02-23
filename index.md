@@ -72,8 +72,9 @@ I participated in the State of the Data Visualization Industry Survey Challenge 
 
 ---
 #### [Weather Time Series Learnings](https://www.linkedin.com/pulse/weather-time-series-learnings-juanita-p-u1rdc/)
-[<img src="Time Series Forecasting.gif?raw=true" alt="timeseries" width="400"/>](https://www.linkedin.com/pulse/weather-time-series-learnings-juanita-p-u1rdc/)
-One of my research interests involves learning about climate, weather, and sustainability and how they interact with health, food availability, jobs, and migration patterns. In this project, I wanted to work on a time series project to learn more about time series and climate weather datasets.
+[<img src="images/Time Series Forecasting.gif?raw=true" alt="timeseries" width="400"/>](https://www.linkedin.com/pulse/weather-time-series-learnings-juanita-p-u1rdc/)
+
+One of my research interests involves learning about climate, weather, and sustainability and how they interact with health, food availability, jobs, and migration patterns. With the increasing occurrence of uncommon weather events in different regions, it has become more important to understand how the temperature changes over time. In this project, I wanted to work on a time series project to learn more about time series and climate weather datasets.
 
 ---
 ### All Data Projects
