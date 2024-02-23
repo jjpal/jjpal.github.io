@@ -74,7 +74,7 @@ I participated in the State of the Data Visualization Industry Survey Challenge 
 #### [Weather Time Series Learnings](https://www.linkedin.com/pulse/weather-time-series-learnings-juanita-p-u1rdc/)
 [<img src="images/Time Series Forecasting.gif?raw=true" alt="timeseries" width="400"/>](https://www.linkedin.com/pulse/weather-time-series-learnings-juanita-p-u1rdc/)
 
-One of my research interests involves learning about climate, weather, and sustainability and how they interact with health, food availability, jobs, and migration patterns. With the increasing occurrence of uncommon weather events in different regions, it has become more important to understand how the temperature changes over time. In this project, I wanted to work on a time series project to learn more about time series and climate weather datasets.
+One of my research interests involves learning about climate, weather, and sustainability and how they interact with health, food availability, jobs, and migration patterns. In this project, I wanted to work on a time series project to learn more about time series and climate weather datasets.
 
 ---
 ### All Data Projects
@@ -88,7 +88,7 @@ One of my research interests involves learning about climate, weather, and susta
 - [Analytics with Python 👷‍♀️ Engineering Project](https://www.linkedin.com/pulse/analytics-python-engineering-project-juanita-p/)
 - [Analyzing 🕋 HR Data with R](https://www.linkedin.com/pulse/analyzing-hr-data-r-juanita-p)
 - [Tableau State of the Data Visualization Industry Survey Exploratory Analysis](https://www.linkedin.com/pulse/tableau-state-data-visualization-industry-survey-exploratory-p/)
-- [Project 9 Title](http://example.com/)
+- [Weather Time Series Learnings](https://www.linkedin.com/pulse/weather-time-series-learnings-juanita-p-u1rdc/)
 - [Project 10 Title](http://example.com/)
 
 ---
