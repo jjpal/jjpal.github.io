@@ -71,6 +71,11 @@ For this case study, I am delving into the People Analytics data that will assis
 I participated in the State of the Data Visualization Industry Survey Challenge using the Data Visualization Society 2022 survey data. 
 
 ---
+#### [Weather Time Series Learnings](https://www.linkedin.com/pulse/weather-time-series-learnings-juanita-p-u1rdc/)
+[<img src="Time Series Forecasting.gif?raw=true" alt="timeseries" width="400"/>](https://www.linkedin.com/pulse/weather-time-series-learnings-juanita-p-u1rdc/)
+One of my research interests involves learning about climate, weather, and sustainability and how they interact with health, food availability, jobs, and migration patterns. In this project, I wanted to work on a time series project to learn more about time series and climate weather datasets.
+
+---
 ### All Data Projects
 
 ---
