@@ -89,7 +89,7 @@ One of my research interests involves learning about climate, weather, and susta
 - [Analyzing 🕋 HR Data with R](https://www.linkedin.com/pulse/analyzing-hr-data-r-juanita-p)
 - [Tableau State of the Data Visualization Industry Survey Exploratory Analysis](https://www.linkedin.com/pulse/tableau-state-data-visualization-industry-survey-exploratory-p/)
 - [Weather Time Series Learnings](https://www.linkedin.com/pulse/weather-time-series-learnings-juanita-p-u1rdc/)
-- [Project 10 Title](http://example.com/)
+- 
 
 ---
 ## 💡 Learnings
