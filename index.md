@@ -92,6 +92,11 @@ One of my research interests involves learning about climate, weather, and susta
 - 
 
 ---
+## 📚 Books 
+
+#### [Read/Reading/To read](/data_readings.md) 
+
+---
 ## 💡 Learnings
 
 #### [Data Notes](/data_notes.md)
