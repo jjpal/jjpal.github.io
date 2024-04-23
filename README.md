@@ -1,7 +1,11 @@
 ## Data Analytics Project Portfolio
 
-### Introduction
 
+
+
+
+<!--
+### Introduction
 Use this template to create a portfolio quicky. 
 
 ### Installation
@@ -36,3 +40,4 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-->
