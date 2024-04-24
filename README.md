@@ -1,4 +1,4 @@
-## Data Analytics Project Portfolio
+## Data Project Portfolio
 
 Project list (planning/ideating)
 - Analytics Engineering
