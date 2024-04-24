@@ -1,6 +1,27 @@
 ## Data Analytics Project Portfolio
 
+Project list (planning/ideating)
+- Analytics Engineering
+- Data Engineering
+- Database / SQL scripts
+- EDA/Visualization
+- Python (scripts / scraping)
+- APIs to generate datasets  
+- Product / Product Analytics
+- Diagrams: Architecture/ERD
+- Volunteer Database App (follow-up phases)
+- Other
 
+
+# Subjects - datasets related to:
+- Temperature / Climate
+- Food Availability / Production
+- Nutrition / Health
+- Animals / Protection / Adoption
+- Elder / Protection / Healthcare
+- Conservation / Water / Electricity
+- Nature / Enviroment / Recycling
+- Other
 
 
 
