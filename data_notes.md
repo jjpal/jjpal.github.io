@@ -3,6 +3,8 @@
 
 # Data Learning Notes
 
+---
+
 [Data Gathering from multiple sources / multiple datasets](https://www.linkedin.com/feed/update/urn:li:activity:7248908655490727937/)
 
 Throughout my various projects, I've gained some valuable insights from projects, and I'd love to share them to help others. My goal is to enhance project outcomes by sharing these lessons.
@@ -21,3 +23,5 @@ A few things to take into consideration:
 --- Consider Data Governance: start small and learn, begin with a pilot project or a specific data domain.
 
 Hopefully, by following these initial steps for your projects, you can save time and start developing robust data processes and workflows. It's important to move towards a governance framework that supports business growth, reduces risks, and enhances decision-making capabilities.
+
+---
