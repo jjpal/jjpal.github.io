@@ -11,4 +11,7 @@
 
 
 - [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) by Martin Kleppmann
+- [Deciphering Data Architectures](https://learning.oreilly.com/library/view/deciphering-data-architectures/9781098150754/) by James Serra
 - [Data Mesh](https://learning.oreilly.com/library/view/data-mesh/9781492092384/) by Zhamak Dehghani
+- [Learning Domain-Driven Design](https://learning.oreilly.com/library/view/learning-domain-driven-design/9781098100124/) by By Vlad Khononov
+- [Practical Lakehouse Architecture](https://learning.oreilly.com/library/view/practical-lakehouse-architecture/9781098153007/) By Gaurav Ashok Thalpati
