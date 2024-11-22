@@ -78,6 +78,9 @@ I participated in the State of the Data Visualization Industry Survey Challenge 
 One of my research interests involves learning about climate, weather, and sustainability and how they interact with health, food availability, jobs, and migration patterns. In this project, I wanted to work on a time series project to learn more about time series and climate weather datasets.
 
 ---
+## Other Projects
+
+---
 ### All Data Projects
 
 ---
