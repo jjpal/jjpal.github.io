@@ -55,6 +55,8 @@ What are the top math schools in the state?
 
 #### [Data Notes](/data_notes.md)
 
+#### [Climate Notes](/climate_notes.md)
+
 ---
 ### All Projects 
 
