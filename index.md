@@ -42,6 +42,7 @@ How does class size affect college admission?
 What are the top math schools in the state? 
 
 ---
+## 💠 Part 2 💠
 
 ### [Additional Data Projects](/more_data_projects.md) 
 
@@ -66,10 +67,10 @@ What are the top math schools in the state?
 - [Analytics with Python 👷‍♀️ Engineering](https://www.linkedin.com/pulse/analytics-python-engineering-project-juanita-p/)
 - [Weather ☀️ Time Series Analysis and Data Modeling Learnings](https://www.linkedin.com/pulse/weather-time-series-learnings-juanita-p-u1rdc/)
 - [Data for Ed Good 📚 Massachusetts School Analysis with Tableau](https://www.linkedin.com/pulse/data-ed-good-massachusetts-school-analysis-juanita-p/)
-- [Analyzing 🕋 HR Data with R](https://www.linkedin.com/pulse/analyzing-hr-data-r-juanita-p)
 - 
 - [iFoods 🛒 Marketing Analysis](https://www.linkedin.com/pulse/ifoods-marketing-analysis-juanita-p/)
 - [Visualizing Sports 🏀 Analytics With Tableau](/sports.md)
+- [Analyzing 🕋 HR Data with R](https://www.linkedin.com/pulse/analyzing-hr-data-r-juanita-p)
 - [Tableau State of the Data Visualization 🖼️ Industry Survey Exploratory Analysis](https://www.linkedin.com/pulse/tableau-state-data-visualization-industry-survey-exploratory-p/)
 
 ---
