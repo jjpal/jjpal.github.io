@@ -42,12 +42,6 @@ How does class size affect college admission?
 What are the top math schools in the state? 
 
 ---
-#### [Analyzing 🕋 HR Data with R](https://www.linkedin.com/pulse/analyzing-hr-data-r-juanita-p)
-[<img src="images/hr_analytics_r.png?raw=true" alt="r_hr_analysis" width="500"/>](https://www.linkedin.com/pulse/analyzing-hr-data-r-juanita-p)
-
-For this case study, I am delving into the People Analytics data that will assist HR Team with insights. HR/People Analytics offers numerous advantages to organizations but must be mindful of the potential drawbacks and address them proactively to harness its full potential and ensure its successful implementation.
-
----
 
 ### [Additional Data Projects](/more_data_projects.md) 
 
