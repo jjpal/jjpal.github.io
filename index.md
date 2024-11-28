@@ -42,12 +42,7 @@ How does class size affect college admission?
 What are the top math schools in the state? 
 
 ---
-#### [Analyzing 🕋 HR Data with R](https://www.linkedin.com/pulse/analyzing-hr-data-r-juanita-p)
-[<img src="images/hr_analytics_r.png?raw=true" alt="r_hr_analysis" width="500"/>](https://www.linkedin.com/pulse/analyzing-hr-data-r-juanita-p)
-
-For this case study, I am delving into the People Analytics data that will assist HR Team with insights. HR/People Analytics offers numerous advantages to organizations but must be mindful of the potential drawbacks and address them proactively to harness its full potential and ensure its successful implementation.
-
----
+## 💠 Part 2 💠
 
 ### [Additional Data Projects](/more_data_projects.md) 
 
@@ -61,6 +56,8 @@ For this case study, I am delving into the People Analytics data that will assis
 
 #### [Data Notes](/data_notes.md)
 
+#### [Climate Notes](/climate_notes.md)
+
 ---
 ### All Projects 
 
@@ -70,10 +67,10 @@ For this case study, I am delving into the People Analytics data that will assis
 - [Analytics with Python 👷‍♀️ Engineering](https://www.linkedin.com/pulse/analytics-python-engineering-project-juanita-p/)
 - [Weather ☀️ Time Series Analysis and Data Modeling Learnings](https://www.linkedin.com/pulse/weather-time-series-learnings-juanita-p-u1rdc/)
 - [Data for Ed Good 📚 Massachusetts School Analysis with Tableau](https://www.linkedin.com/pulse/data-ed-good-massachusetts-school-analysis-juanita-p/)
-- [Analyzing 🕋 HR Data with R](https://www.linkedin.com/pulse/analyzing-hr-data-r-juanita-p)
 - 
 - [iFoods 🛒 Marketing Analysis](https://www.linkedin.com/pulse/ifoods-marketing-analysis-juanita-p/)
 - [Visualizing Sports 🏀 Analytics With Tableau](/sports.md)
+- [Analyzing 🕋 HR Data with R](https://www.linkedin.com/pulse/analyzing-hr-data-r-juanita-p)
 - [Tableau State of the Data Visualization 🖼️ Industry Survey Exploratory Analysis](https://www.linkedin.com/pulse/tableau-state-data-visualization-industry-survey-exploratory-p/)
 
 ---
