@@ -2,9 +2,10 @@ title: Juanita # your name (or website title) here
 logo: "/images/datapresentation - mod.jpg?raw=true" # your photo (or logo) here
 description: >  # your text below (remove <br> elements if you don't need line breaks)
 
-  Analytics Engineering | 
-  Data Analystics | Business Analytics <br>
-  Data Engineering | Business Intelligence  <br><br>
+  Analytics Engineering | Data Analystics | <br> 
+  Data Engineering | <br>
+  Business Analytics <br>
+  Business Intelligence | <br><br> 
   ╔═════════════════════════╗ <br>
   SQL | Python | dbt | Snowflake <br>
   Big Query | Tableau | Excel | R <br>
