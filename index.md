@@ -4,8 +4,9 @@
 
 ---
 
-## Hi 👋 Learn About My Data 📈 Projects
+## Data 📈 Projects
 
+## 💠 Part 1 💠
 
 #### [World Bank - SQL Financial Banking](/bank.md)
 [<img src="images/SQL Banking Project(1).jpg?raw=true" alt="financial_analysis" width="300"/>](/bank.md)
