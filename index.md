@@ -4,7 +4,7 @@
 
 ---
 
-## Data 📈 Projects
+## Data Projects
 
 ## 💠 Part 1 💠
 
@@ -63,16 +63,16 @@ What are the top math schools in the state?
 ### All Projects 
 
 ---
-- [World Bank 💲 SQL Financial Banking](/bank.md)
-- [SQL Healthcare 🏥 Analysis](https://www.linkedin.com/pulse/sql-healthcare-analysis-juanita-p)
-- [Analytics with Python 👷‍♀️ Engineering](https://www.linkedin.com/pulse/analytics-python-engineering-project-juanita-p/)
-- [Weather ☀️ Time Series Analysis and Data Modeling Learnings](https://www.linkedin.com/pulse/weather-time-series-learnings-juanita-p-u1rdc/)
-- [Data for Ed Good 📚 Massachusetts School Analysis with Tableau](https://www.linkedin.com/pulse/data-ed-good-massachusetts-school-analysis-juanita-p/)
+- [World Bank SQL Financial Banking](/bank.md)
+- [SQL Healthcare Analysis](https://www.linkedin.com/pulse/sql-healthcare-analysis-juanita-p)
+- [Analytics with Python Engineering](https://www.linkedin.com/pulse/analytics-python-engineering-project-juanita-p/)
+- [Weather Time Series Analysis and Data Modeling Learnings](https://www.linkedin.com/pulse/weather-time-series-learnings-juanita-p-u1rdc/)
+- [Data for Ed Good Massachusetts School Analysis with Tableau](https://www.linkedin.com/pulse/data-ed-good-massachusetts-school-analysis-juanita-p/)
 - 
-- [iFoods 🛒 Marketing Analysis](https://www.linkedin.com/pulse/ifoods-marketing-analysis-juanita-p/)
-- [Visualizing Sports 🏀 Analytics With Tableau](/sports.md)
-- [Analyzing 🕋 HR Data with R](https://www.linkedin.com/pulse/analyzing-hr-data-r-juanita-p)
-- [Tableau State of the Data Visualization 🖼️ Industry Survey Exploratory Analysis](https://www.linkedin.com/pulse/tableau-state-data-visualization-industry-survey-exploratory-p/)
+- [iFoods Marketing Analysis](https://www.linkedin.com/pulse/ifoods-marketing-analysis-juanita-p/)
+- [Visualizing Sports Analytics With Tableau](/sports.md)
+- [Analyzing HR Data with R](https://www.linkedin.com/pulse/analyzing-hr-data-r-juanita-p)
+- [Tableau State of the Data Visualization Industry Survey Exploratory Analysis](https://www.linkedin.com/pulse/tableau-state-data-visualization-industry-survey-exploratory-p/)
 
 ---
 
