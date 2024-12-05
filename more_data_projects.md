@@ -1,4 +1,4 @@
-## Hi 👋 My Data 📈 Projects - Part 2
+## Data Projects - Part 2
 
 #### [iFoods Marketing Analysis Project](https://www.linkedin.com/pulse/ifoods-marketing-analysis-juanita-p/)
 [<img src="/images/iFoods Analytics.png?raw=true" alt="ifoods_prod_analysis" width="300"/>](https://www.linkedin.com/pulse/ifoods-marketing-analysis-juanita-p/)
