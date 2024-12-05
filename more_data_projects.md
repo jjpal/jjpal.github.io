@@ -33,3 +33,18 @@ For this case study, I am delving into the People Analytics data that will assis
 I participated in the State of the Data Visualization Industry Survey Challenge using the Data Visualization Society 2022 survey data. 
 
 ---
+### All Projects 
+
+---
+- [World Bank SQL Financial Banking](/bank.md)
+- [SQL Healthcare Analysis](https://www.linkedin.com/pulse/sql-healthcare-analysis-juanita-p)
+- [Analytics with Python Engineering](https://www.linkedin.com/pulse/analytics-python-engineering-project-juanita-p/)
+- [Weather Time Series Analysis and Data Modeling Learnings](https://www.linkedin.com/pulse/weather-time-series-learnings-juanita-p-u1rdc/)
+- [Data for Ed Good Massachusetts School Analysis with Tableau](https://www.linkedin.com/pulse/data-ed-good-massachusetts-school-analysis-juanita-p/)
+- 
+- [iFoods Marketing Analysis](https://www.linkedin.com/pulse/ifoods-marketing-analysis-juanita-p/)
+- [Visualizing Sports Analytics With Tableau](/sports.md)
+- [Analyzing HR Data with R](https://www.linkedin.com/pulse/analyzing-hr-data-r-juanita-p)
+- [Tableau State of the Data Visualization Industry Survey Exploratory Analysis](https://www.linkedin.com/pulse/tableau-state-data-visualization-industry-survey-exploratory-p/)
+
+---
