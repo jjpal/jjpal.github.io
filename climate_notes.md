@@ -43,7 +43,7 @@
 
 ---
 ### Pages 
----
+
 - [Part I](/index.md)
 - [Part II](/more_data_projects.md)
 - [Books](/data_readings.md)
