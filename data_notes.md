@@ -24,4 +24,20 @@ A few things to take into consideration:
 
 Hopefully, by following these initial steps for your projects, you can save time and start developing robust data processes and workflows. It's important to move towards a governance framework that supports business growth, reduces risks, and enhances decision-making capabilities.
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ---
+### Pages 
+- [Part I](/index.md)
+- [Part II](/more_data_projects.md)
+- [Books](/data_readings.md)
+- [Climate Notes](/climate_notes.md)
