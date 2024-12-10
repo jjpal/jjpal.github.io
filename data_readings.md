@@ -15,3 +15,20 @@
 - [Data Mesh](https://learning.oreilly.com/library/view/data-mesh/9781492092384/) by Zhamak Dehghani
 - [Learning Domain-Driven Design](https://learning.oreilly.com/library/view/learning-domain-driven-design/9781098100124/) by By Vlad Khononov
 - [Practical Lakehouse Architecture](https://learning.oreilly.com/library/view/practical-lakehouse-architecture/9781098153007/) By Gaurav Ashok Thalpati
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+### Pages 
+- [Part I](/index.md)
+- [Part II](/more_data_projects.md)
+- [Data Notes](/data_notes.md)
+- [Climate Notes](/climate_notes.md)
