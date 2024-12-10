@@ -63,5 +63,6 @@ I participated in the State of the Data Visualization Industry Survey Challenge 
 - [Visualizing Sports Analytics With Tableau](/sports.md)
 - [Analyzing HR Data with R](https://www.linkedin.com/pulse/analyzing-hr-data-r-juanita-p)
 - [Tableau State of the Data Visualization Industry Survey Exploratory Analysis](https://www.linkedin.com/pulse/tableau-state-data-visualization-industry-survey-exploratory-p/)
--->
+
 ---
+-->
