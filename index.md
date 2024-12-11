@@ -1,10 +1,7 @@
-# Welcome to JJPAL Data Portfolio 
 
 <img src="images/header2.jpg?raw=true" alt="header" width="800"/>
 
----
-
-## Data Projects
+# Welcome to JJPAL Data Portfolio 
 
 ## 💠 Part 1 💠
 
