@@ -5,10 +5,6 @@
 - Notes
 
 
-
-
-
-
 <br>
 <br>
 <br>
@@ -27,16 +23,18 @@
 <br>
 
 ---
-
 - Visualizations
   - [Solid Waste Around The World](https://public.tableau.com/app/profile/jj1485/viz/SolidWasteAroundTheWorld/Dashboard12)
- 
+
 <br>
 <br>
 <br>
 <br>
-<br>
-<br>
+
+---
+- Other
+    - [doublegreen](https://github.com/jjpal/doublegreen) Compiled list of DIY products with the goal to generate less waste 🌏 and save a a bit money 💵
+
 <br>
 <br>
 <br>
@@ -49,5 +47,3 @@
 - [Data Notes](/data_notes.md)
 <!--[Climate Notes](/climate_notes.md)-->
 
-
----
