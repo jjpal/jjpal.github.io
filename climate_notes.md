@@ -29,7 +29,7 @@
 ---
 
 - Visualizations
-  - Solid Waste Around The World
+  - [Solid Waste Around The World](https://public.tableau.com/app/profile/jj1485/viz/SolidWasteAroundTheWorld/Dashboard12)
  
 <br>
 <br>
