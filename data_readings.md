@@ -1,9 +1,8 @@
 <img src="images/book_readings.gif?raw=true"/>
 
-
-
 # Books (Read/Reading/To read)
 
+## Data
 - [Fundamentals of Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/) by Joe Reis, Matt Housley
 - [Analytics Engineering with SQL and dbt](https://learning.oreilly.com/library/view/analytics-engineering-with/9781098142377/) by Rui Pedro Machado and Helder Russa
 - [Google BigQuery: The Definitive Guide](https://learning.oreilly.com/library/view/google-bigquery-the/9781492044451/) by Valliappa Lakshmanan, Jordan Tigani
@@ -19,6 +18,19 @@
 <br>
 <br>
 <br>
+
+## Climate
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Articles To Read
+
+
 <br>
 <br>
 <br>
