@@ -4,11 +4,11 @@ Project list (planning/ideating)
 - Analytics Engineering
 - Data Engineering
 - Database / SQL scripts
-- EDA/Visualization
-- Python (scripts / scraping)
+- Exploratory Data Analysis / Visualization
+- Python (scripts / web scraping)
 - APIs to generate datasets  
 - Product / Product Analytics
-- Diagrams: Architecture/ERD
+- Diagrams: Architecture/Entity Relationship Diagram
 - Volunteer Database App (follow-up phases)
 - Other
 
