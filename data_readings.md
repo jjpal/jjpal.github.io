@@ -8,6 +8,8 @@
 - [Google BigQuery: The Definitive Guide](https://learning.oreilly.com/library/view/google-bigquery-the/9781492044451/) by Valliappa Lakshmanan, Jordan Tigani
 - [Snowflake: The Definitive Guide](https://learning.oreilly.com/library/view/snowflake-the-definitive/9781098103811/) by Joyce Kay Avila
 
+<br>
+<br>
 
 - [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) by Martin Kleppmann
 - [Deciphering Data Architectures](https://learning.oreilly.com/library/view/deciphering-data-architectures/9781098150754/) by James Serra
@@ -15,6 +17,8 @@
 - [Learning Domain-Driven Design](https://learning.oreilly.com/library/view/learning-domain-driven-design/9781098100124/) by By Vlad Khononov
 - [Practical Lakehouse Architecture](https://learning.oreilly.com/library/view/practical-lakehouse-architecture/9781098153007/) By Gaurav Ashok Thalpati
 
+<br>
+<br>
   
 - [Data Quality Fundamentals](https://learning.oreilly.com/library/view/data-quality-fundamentals/9781098112035/) By Barr Moses, Lior Gavish, Molly Vorwerck
 
