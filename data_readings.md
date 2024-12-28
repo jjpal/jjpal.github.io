@@ -15,6 +15,9 @@
 - [Learning Domain-Driven Design](https://learning.oreilly.com/library/view/learning-domain-driven-design/9781098100124/) by By Vlad Khononov
 - [Practical Lakehouse Architecture](https://learning.oreilly.com/library/view/practical-lakehouse-architecture/9781098153007/) By Gaurav Ashok Thalpati
 
+  
+- [Data Quality Fundamentals](https://learning.oreilly.com/library/view/data-quality-fundamentals/9781098112035/) By Barr Moses, Lior Gavish, Molly Vorwerck
+
 <br>
 <br>
 <br>
