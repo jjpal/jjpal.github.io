@@ -21,6 +21,7 @@
 <br>
   
 - [Data Quality Fundamentals](https://learning.oreilly.com/library/view/data-quality-fundamentals/9781098112035/) By Barr Moses, Lior Gavish, Molly Vorwerck
+- [Data Management at Scale](https://learning.oreilly.com/library/view/data-management-at/9781492054771/) By Piethein Strengholt
 
 <br>
 <br>
