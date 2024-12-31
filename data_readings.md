@@ -34,7 +34,19 @@
 <br>
 <br>
 <br>
+
+As noted on the [New York Public Library Blog](https://www.nypl.org/blog/2024/09/10/new-books-climate-change)
+- Free the Land: How We Can Fight Poverty and Climate Chaos by Audrea Lim
+- Not the End of the World: How We Can Be the First Generation to Build a Sustainable Planet
+by Hannah Ritchie
+- What If We Get It Right?: Visions of Climate Futures by Ayana Elizabeth Johnson
 <br>
+<br>
+
+From [Yale Climate Connections](https://yaleclimateconnections.org/2024/05/create-your-own-climate-change-summer-reading-program/)
+- Solvable: How We Healed the Earth, and How We Can Do It Again by Susan Solomon
+- Climate Action for Busy People by Cate Mingoya-Lafortune
+- H Is for Hope: Climate Change from A to Z by Elizabeth Kolbert 
 <br>
 <br>
 
