@@ -1,7 +1,7 @@
 
 <img src="images/header2.jpg?raw=true" alt="header" width="800"/>
 
-# Welcome to JJPAL Data Portfolio 
+#  Data Portfolio 
 
 ## 💠 Part 1 💠
 
